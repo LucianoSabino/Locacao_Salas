@@ -1,2 +1,2 @@
-# Locação Salas
- Trabalho proposto pelo prof de processamento de dados da facul UFRB, problema de locação de salas
+# Análise do Problema de Locação de Salas: Uma Proposta para a Disciplina de Processamento de Dados - UFRB
+Desenvolvimento de um algoritmo para otimização da locação de salas na UFRB. Desenvolvido na disciplina de Processamento de Dados da Universidade tem como objetivo principal a análise e proposição de soluções para o problema da locação de salas. O desenvolvimento foi realizado em linguagem C++, o que exigiu um aprofundamento considerável em algoritmos e estruturas de dados. Apesar dos desafios encontrados, o projeto proporcionou um aprendizado significativo, um dos maiores desafios foi lidar com a complexidade do problema, que envolve diversas variáveis e restrições.
